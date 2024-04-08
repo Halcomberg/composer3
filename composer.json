@@ -1,0 +1,17 @@
+{
+    "name": "alex/composer3_package_management",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ALEXANDRE WENCK",
+            "email": "alexandre.wenck.pro@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.2"
+    }
+}
